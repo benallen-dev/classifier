@@ -1,0 +1,4 @@
+github.com/wamuir/graft v0.9.0 h1:5DbPtr3MfWRq9bFHivbbvNic8h8jtcKK12Rxk0644iY=
+github.com/wamuir/graft v0.9.0/go.mod h1:k6NJX3fCM/xzh5NtHky9USdgHTcz2vAvHp4c23I6UK4=
+google.golang.org/protobuf v1.34.2 h1:6xV6lTsCfpGD21XK49h7MhtcApnLqkfYgPcdHftf6hg=
+google.golang.org/protobuf v1.34.2/go.mod h1:qYOHts0dSfpeUzUFpOMr/WGzszTmLH+DiWniOlNbLDw=
