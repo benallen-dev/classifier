@@ -10,3 +10,7 @@
 ```
 go run . <path-to-image>
 ```
+
+## Thanks
+
+Thanks to [package main](https://youtu.be/P8MZ1Z2LHrw) for his video that got me started.
